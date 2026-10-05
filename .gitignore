@@ -18,4 +18,5 @@ node_modules
 .next/
 out/
 build/
+*.tsbuildinfo
 .DS_Store
